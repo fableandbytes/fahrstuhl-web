@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927040341473",
+    "project_id": "fahrstuhl-kartenspiel",
+    "storage_bucket": "fahrstuhl-kartenspiel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927040341473:android:31906d9a7c87e40868bea0",
+        "android_client_info": {
+          "package_name": "com.fableandbytes.fahrstuhl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqvCSoTwrtV0Whgsl-slTkwb0idFN6OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927040341473:android:354e2f911be534c868bea0",
+        "android_client_info": {
+          "package_name": "de.fahrstuhlkartenspiel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgqvCSoTwrtV0Whgsl-slTkwb0idFN6OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
