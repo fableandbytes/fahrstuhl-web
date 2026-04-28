@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle for contrast/aesthetic -->
+    <path
+        android:pathData="M54,54m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0"
+        android:fillColor="#1B2C41" />
+
+    <!-- Elevator Door Frame (ElevatorGold: #D4AF37) -->
+    <!-- Positioned slightly lower to make room for arrows above -->
+    <path
+        android:pathData="M38,46h32v34h-32z"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000" />
+
+    <!-- Door Middle Line -->
+    <path
+        android:pathData="M54,47v32"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="1.5" />
+
+    <!-- Arrows: Both above the door side-by-side -->
+    <!-- Up Arrow -->
+    <path
+        android:pathData="M42,38l5,-5l5,5"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Down Arrow -->
+    <path
+        android:pathData="M56,33l5,5l5,-5"
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Side Buttons (ElevatorGold) -->
+    <path
+        android:pathData="M74,56h2v2h-2z M74,60h2v2h-2z"
+        android:fillColor="#D4AF37" />
+
+</vector>
