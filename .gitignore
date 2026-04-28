@@ -7,3 +7,11 @@ local.properties
 .DS_Store
 .kotlin/
 node_modules/
+
+# Web-Build Artefakte (sollen nur auf gh-pages existieren)
+*.wasm
+*.js
+*.js.map
+*.js.LICENSE.txt
+index.html
+composeResources/
